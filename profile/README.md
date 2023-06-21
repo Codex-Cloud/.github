@@ -1,12 +1,15 @@
-## Hi there 👋
+![Codex Cloud](https://cdn.discordapp.com/attachments/804113312497270784/999433475541184562/codexcloud.png)
 
-<!--
+<br>
 
-**Here are some ideas to get you started:**
+## Hey, Dit zijn wij 👋
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Codex Cloud biedt kwalitatieve diensten aan voor een zeer lage prijs, wij vinden het belangrijk dat onze klanten kunnen profiteren van snelle service en servers.
+
+### ✨ Public Repositories
+
+- []
+
+### 🙌 Handige linkjes
+- [www.codexcloud.nl](https://codexcloud.nl)
+- [MyCodex.cloud](https://mycodex.cloud)
